@@ -31,6 +31,7 @@ body {
 }
 body {
   color: #fff;
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
   background-image: url("images/trees.jpg");
@@ -113,10 +114,13 @@ body {
  */
 
 .cover {
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 10px 20px;
   color: #000;
 
+}
+.cover-heading{
+  font-family: 'Lobster Two' cursive;
 }
 .cover .btn-lg {
   padding: 10px 20px;
@@ -129,6 +133,7 @@ body {
  */
 
 .mastfoot {
+  font-size: .75em;
   color: #999; /* IE8 proofing */
   color: rgba(255,255,255,.5);
 }
