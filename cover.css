@@ -37,6 +37,7 @@ body {
   background-image: url("images/illuminated_christmas_trees.jpg");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: contain;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
